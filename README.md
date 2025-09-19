@@ -3,6 +3,7 @@ Pytorch Implementation of "Customizable-ROI-Based-Deep-Image-Compression" [arXiv
 
 
 # Pretrained Models
+Below, we provide the model weights to replicate the results of our paper.
 | Lambda | Channels | Link                  |
 |--------|--------|-----------------------|
 | 0.0035 | 128    | [BaiduDisk](https://pan.baidu.com/s/19SlRJZiczF-BJhGGKzNIlQ)  |
@@ -11,7 +12,7 @@ Pytorch Implementation of "Customizable-ROI-Based-Deep-Image-Compression" [arXiv
 | 0.0483 | 192    | [BaiduDisk](https://pan.baidu.com/s/12KJnd2xVw8WC0OS2eJQbgg)  |
 | 0.0932 | 192    | [BaiduDisk](https://pan.baidu.com/s/1Hd_qN9thxxPbiDb-lMvadw)  |
 
-code:jooy
+code: jooy
 
 
 # Acknowledgement
