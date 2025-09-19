@@ -17,7 +17,7 @@ code: jooy
 # Training
 Run the script:
 
-'python train_tic.py -d /path/to/dataset/COCO/ --cuda'
+`python train_tic.py -d /path/to/dataset/COCO/ --cuda`
 
 # Testing
 The testing code is provided in `eval_kodak.py`. 
@@ -38,6 +38,8 @@ similarity = cosine_similarity(
     img_feat_norm, text_feat_norm.unsqueeze(-1).unsqueeze(-1)
 )
 similarity = similarity.unsqueeze(0)
+
+```
 
 
 
