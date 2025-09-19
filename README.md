@@ -3,7 +3,7 @@ Pytorch Implementation of "Customizable-ROI-Based-Deep-Image-Compression" [arXiv
 
 
 # Pretrained Models
-Below, we provide the model weights to replicate the results of our paper.
+Below, we provide the model weights to replicate the results of our paper ($sigma; =0.01).
 | Lambda | Channels | Link                  |
 |--------|--------|-----------------------|
 | 0.0035 | 128    | [BaiduDisk](https://pan.baidu.com/s/19SlRJZiczF-BJhGGKzNIlQ)  |
@@ -21,6 +21,7 @@ Run the script:
 
 # Testing
 The testing code is provided in `eval_kodak.py`. 
+
 By default, it supports ROI localization using textual input, which fully corresponds to the experimental setup and details described in our paper.
 
 If you would like to evaluate the method using Ground-Truth masks (GT masks) instead, please modify the following section in `eval_kodak.py` with your GT-mask loading implementation:
