@@ -1,6 +1,19 @@
 # Customizable-ROI-Based-Deep-Image-Compression
 Pytorch Implementation of "Customizable-ROI-Based-Deep-Image-Compression" [arXiv](https://arxiv.org/pdf/2507.00373), TCSVT,2025
 
+
+#Pretrained Models
+| Lambda | Channels | Link                  |
+|--------|--------|-----------------------|
+| 0.0035 | 128    | [BaiduDisk](https://pan.baidu.com/s/19SlRJZiczF-BJhGGKzNIlQ)  |
+| 0.0013 | 128    | [BaiduDisk](https://pan.baidu.com/s/1R1-UYFk9496Bsc-D1yxQEA)  |
+| 0.025 | 192    | [BaiduDisk](https://pan.baidu.com/s/1vrkolgIImEB7OFhgr5BV3A)  |
+| 0.0483 | 192    | [BaiduDisk](https://pan.baidu.com/s/12KJnd2xVw8WC0OS2eJQbgg)  |
+| 0.0932 | 192    | [BaiduDisk](https://pan.baidu.com/s/1Hd_qN9thxxPbiDb-lMvadw)  |
+
+code:jooy
+
+
 # Acknowledgement
 The framework is based on [TIC](https://github.com/lumingzzz/TIC), the lseg part of the code and checkpoint comes from [lseg-minimal](https://github.com/krrish94/lseg-minimal).
 
