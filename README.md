@@ -3,7 +3,7 @@ Pytorch Implementation of "Customizable-ROI-Based-Deep-Image-Compression" [arXiv
 
 
 # Pretrained Models
-Below, we provide the model weights to replicate the results of our paper ($sigma; =0.01).
+Below, we provide the model weights to replicate the results of our paper (&sigma; =0.01).
 | Lambda | Channels | Link                  |
 |--------|--------|-----------------------|
 | 0.0035 | 128    | [BaiduDisk](https://pan.baidu.com/s/19SlRJZiczF-BJhGGKzNIlQ)  |
