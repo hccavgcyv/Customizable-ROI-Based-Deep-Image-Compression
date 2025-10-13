@@ -6,11 +6,11 @@ Pytorch Implementation of "Customizable-ROI-Based-Deep-Image-Compression" [arXiv
 We provide the model weights to replicate the results of our paper (&sigma; =0.01).
 | Lambda | Channels | Link          |
 |--------|--------|-----------------------|
-| 0.0035 | 128    | [BaiduDisk](https://pan.baidu.com/s/19SlRJZiczF-BJhGGKzNIlQ), [GoodleDrive](https://drive.google.com/file/d/1KG-pO5euLsAZ5WQA6YRnzxOHUXc4lphP/view?usp=drive_link) |
-| 0.0013 | 128    | [BaiduDisk](https://pan.baidu.com/s/1R1-UYFk9496Bsc-D1yxQEA), [GoodleDrive](https://drive.google.com/file/d/1SuGikGZrREzwE0ZHj_gkNfShQ0eT3Y4Z/view?usp=drive_link) |
-| 0.025 | 192    | [BaiduDisk](https://pan.baidu.com/s/1vrkolgIImEB7OFhgr5BV3A), [GoodleDrive](https://drive.google.com/file/d/1EAbChYFtiBwQUL-QaplQ3NS06bZsLEk9/view?usp=drive_link) |
-| 0.0483 | 192    | [BaiduDisk](https://pan.baidu.com/s/12KJnd2xVw8WC0OS2eJQbgg), [GoodleDrive](https://drive.google.com/file/d/1p42iDVt_n4AKEtVYsT2QOIdcvdFjjQgg/view?usp=drive_link) |
-| 0.0932 | 192    | [BaiduDisk](https://pan.baidu.com/s/1Hd_qN9thxxPbiDb-lMvadw), [GoodleDrive](https://drive.google.com/file/d/1TlTVXUFTcAuAF_ma9SYCAtt_rLzpWqbl/view?usp=drive_link) |
+| 0.0035 | 128    | [BaiduDisk](https://pan.baidu.com/s/19SlRJZiczF-BJhGGKzNIlQ), [GoogleDrive](https://drive.google.com/file/d/1KG-pO5euLsAZ5WQA6YRnzxOHUXc4lphP/view?usp=drive_link) |
+| 0.0013 | 128    | [BaiduDisk](https://pan.baidu.com/s/1R1-UYFk9496Bsc-D1yxQEA), [GoogleDrive](https://drive.google.com/file/d/1SuGikGZrREzwE0ZHj_gkNfShQ0eT3Y4Z/view?usp=drive_link) |
+| 0.025 | 192    | [BaiduDisk](https://pan.baidu.com/s/1vrkolgIImEB7OFhgr5BV3A), [GoogleDrive](https://drive.google.com/file/d/1EAbChYFtiBwQUL-QaplQ3NS06bZsLEk9/view?usp=drive_link) |
+| 0.0483 | 192    | [BaiduDisk](https://pan.baidu.com/s/12KJnd2xVw8WC0OS2eJQbgg), [GoogleDrive](https://drive.google.com/file/d/1p42iDVt_n4AKEtVYsT2QOIdcvdFjjQgg/view?usp=drive_link) |
+| 0.0932 | 192    | [BaiduDisk](https://pan.baidu.com/s/1Hd_qN9thxxPbiDb-lMvadw), [GoogleDrive](https://drive.google.com/file/d/1TlTVXUFTcAuAF_ma9SYCAtt_rLzpWqbl/view?usp=drive_link) |
 
 code: jooy
 
