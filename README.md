@@ -14,7 +14,7 @@ We provide the model weights to replicate the results of our paper (&sigma; =0.0
 
 code: jooy
 
-#Environment
+# Environment
 CompressAI 1.2.0b3
 
 # Training
